@@ -1,0 +1,5 @@
+FTP:121.192.180.66	USR:anonymous	PAS:IEUser@	STA:FALED
+FTP:121.192.180.66	USR:student	PAS:software	STA:OK
+FTP:192.168.0.104	USR:student	PAS:software	STA:OK
+FTP:121.192.180.66	USR:student	PAS:software	STA:OK
+FTP:121.192.180.66	USR:anonymous	PAS:IEUser@	STA:FALED
